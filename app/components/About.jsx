@@ -16,12 +16,7 @@ const About = ({isDarkMode}) => {
                 </div>
 
                 <div className="flex-1">
-                    <p className='mb-10 max-w-2xl font-Ovo'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Ut delectus maxime officia et labore ipsa ipsam error iusto
-                        repellat non praesentium accusantium similique assumenda ducimus totam,
-                        hic eos inventore aliquid, est id sed ratione. Quas, inventore quasi?
-                        Quas accusamus, voluptas doloribus temporibus dolorem animi,
-                        molestias id cum soluta voluptate quod!</p>
+                    <p className='mb-10 max-w-2xl font-Ovo'>A Staff-level Software Engineer with over 10 years of experience architecting and delivering highly scalable, data-intensive applications. I am passionate about solving problems and user-centric design, while leveraging my expertise in React, TypeScript, and distributed systems to build products that are not only technically robust but also intuitive and impactful. With an M.Sc. in Data Science, I bring a unique perspective to frontend development, focusing on transforming complex data into meaningful user experiences and driving innovation through the application of AI and machine learning.</p>
 
                     <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
                         {infoList.map(({ icon, iconDark, title, description }, index) => (
