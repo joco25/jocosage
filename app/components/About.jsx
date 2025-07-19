@@ -16,7 +16,7 @@ const About = ({isDarkMode}) => {
                 </div>
 
                 <div className="flex-1">
-                    <p className='mb-10 max-w-2xl font-Ovo'>A Staff-level Software Engineer with over 10 years of experience architecting and delivering highly scalable, data-intensive applications. I am passionate about solving problems and user-centric design, while leveraging my expertise in React, TypeScript, and distributed systems to build products that are not only technically robust but also intuitive and impactful. With an M.Sc. in Data Science, I bring a unique perspective to frontend development, focusing on transforming complex data into meaningful user experiences and driving innovation through the application of AI and machine learning.</p>
+                    <p className='mb-10 max-w-2xl font-Ovo'>I am a Staff-level Software Engineer with over 10 years of experience architecting and delivering highly scalable, data-intensive applications. I am passionate about solving technical problems and user-centric design. Over the years, I have used my expertise in the frontend, backend and distributed systems to build products that are technically sound,  intuitive and impactful. I am an advocate for continuous learning, and most recently, I have been experimenting with blockchain technologies. With an M.Sc. in Data Science, I have also been working on transforming complex data into meaningful user experiences and driving innovation through custom LLMs, AI and machine learning models.</p>
 
                     <ul className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
                         {infoList.map(({ icon, iconDark, title, description }, index) => (

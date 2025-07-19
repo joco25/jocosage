@@ -15,6 +15,8 @@ export const metadata = {
   title: "Welcome to Joshua's Portfolio",
   keywords: [
     "Portfolio",
+    "Fullstack Developer",
+    "Software Developer",
     "Frontend Developer",
     "Joshua's Portfolio",
     "React Native",
@@ -26,7 +28,7 @@ export const metadata = {
     "Mobile App Development",
   ],
   description:
-    "Welcome to Joshua's Portfolio, showcasing my skills as a Frontend Developer with expertise in React Native, React, Next.js, and JavaScript. Explore my projects and services in web and mobile app development, UI/UX design, and more.",
+    "Welcome to Joshua's Portfolio, showcasing my skills as a Software Developer with expertise in React Native, React, Next.js, and JavaScript. Explore my projects and services in web and mobile app development, and more.",
 };
 
 export default function RootLayout({ children }) {
