@@ -10,7 +10,7 @@ const Services = () => {
 
             <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
                 I'm a frontend developer from California,
-                USA with 10 years experience in multiple companies like Microsoft,
+                USA with 13 years experience in multiple companies like Microsoft,
                 Tesla and Apple.
             </p>
 
